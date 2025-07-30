@@ -38,3 +38,9 @@ response = s3vectors.query_vectors(
     returnMetadata=True
 )
 ```
+
+## Reference
+
+[Working with S3 Vectors and vector buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-vectors.html)
+
+[boto3 - create_vector_bucket](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3vectors/client/create_vector_bucket.html)
